@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    background-color: grey;
+}
+label input{
+    background-color: aliceblue;
+}
+button{
+    background-color: aliceblue;
+}
+.result{
+color: antiquewhite;
+}
